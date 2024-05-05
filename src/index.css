@@ -75,16 +75,17 @@ a {
   display: flex;
 }
 .imoji {
-  margin-top: 16px;
-  font-size: 40px;
+  width: 88px;
+  height: 88px;
 }
 .degree {
   margin-top: 8px;
   font-size: 25px;
 }
 .temp {
-  font-size: 70px;
-  font-weight: 900;
+  font-size: 88px;
+  line-height: 88px;
+  font-weight: bold;
 }
 .app {
   background: blanchedalmond;
