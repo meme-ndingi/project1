@@ -87,6 +87,11 @@ a {
   line-height: 88px;
   font-weight: bold;
 }
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+}
+
 .app {
   background: blanchedalmond;
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
@@ -132,4 +137,10 @@ strong {
 .weather-app {
   display: flex;
   justify-content: space-between;
+}
+.weather-forecast-date,
+.weather-forecast-temp-min {
+  font-size: 16px;
+  color: black;
+  opacity: 0.6;
 }
